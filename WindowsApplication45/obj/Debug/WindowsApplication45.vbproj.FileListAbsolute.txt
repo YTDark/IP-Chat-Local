@@ -1,0 +1,11 @@
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsApplication45\WindowsApplication45\bin\Debug\WindowsApplication45.exe.config
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsApplication45\WindowsApplication45\bin\Debug\WindowsApplication45.exe
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsApplication45\WindowsApplication45\bin\Debug\WindowsApplication45.pdb
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsApplication45\WindowsApplication45\bin\Debug\WindowsApplication45.xml
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsApplication45\WindowsApplication45\obj\Debug\WindowsApplication45.vbprojResolveAssemblyReference.cache
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsApplication45\WindowsApplication45\obj\Debug\WindowsApplication45.Form1.resources
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsApplication45\WindowsApplication45\obj\Debug\WindowsApplication45.Resources.resources
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsApplication45\WindowsApplication45\obj\Debug\WindowsApplication45.vbproj.GenerateResource.Cache
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsApplication45\WindowsApplication45\obj\Debug\WindowsApplication45.exe
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsApplication45\WindowsApplication45\obj\Debug\WindowsApplication45.xml
+c:\users\ahmad\documents\visual studio 2015\Projects\WindowsApplication45\WindowsApplication45\obj\Debug\WindowsApplication45.pdb
